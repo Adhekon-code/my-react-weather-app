@@ -1,24 +1,10 @@
-.App{
-  text-align: center;
-}
-.wrapper{
- font-size: 14px;
-  font-family: "Roboto Condensed", sans-serif;
+.App {
   max-width: 600px;
-  margin: 20px auto;
-  padding: 30px 40px;
-  border: 1px solid pink;
-  display: block;
+  margin: 30px auto;
+  background-color: rgb(228, 236, 241);
 }
-ul{
-  list-style: none;
-  text-align: left;
-  margin: 0 0 10px;
-  padding: 0;
-  position: relative;
-  left: -34px;
 
-}
-h3{
-text-align: left;
+.App footer {
+  font-size: 11px;
+  margin: 10px 0;
 }
